@@ -1,0 +1,5 @@
+{0: 'A', 1: 'B', 2: 'C', 3: 'D', 4: 'E', 5: 'F', 6: 'G', 7: 'H', 8: 'I', 9: 'J', 10: 'K', 11: 'L',
+               12: 'M', 13: 'N', 14: 'O', 15: 'P', 16: 'Q', 17: 'R', 18: 'S', 19: 'T', 20: 'U', 21: 'V', 22: 'W',
+               23: 'Z', 24: 'X', 25: 'Y', 26: 'ZERO', 27: 'ONE', 28: 'TWO', 29: 'THREE', 30: 'FOUR', 31: 'FIVE',
+               32: 'SIX', 33: 'SEVEN', 34: 'EIGHT', 35: 'NINE', 36: 'Thankyou', 37: 'Please', 38: 'Sorry', 39: 'Food',
+               40: 'Water', 41: 'Need More', 42: 'Hello', 43: 'You Are Welcome', 44: 'No', 45: 'yes'}
